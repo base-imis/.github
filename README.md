@@ -2,15 +2,14 @@
 
 ## Introduction to IMIS
 
-The Integrated Municipal Information System (IMIS) is a comprehensive digital platform designed to transform how municipalities manage sanitation systems and services, aligning with the principles of Citywide Inclusive Sanitation (CWIS) to achieve Sustainable Development Goal (SDG) 6.2. IMIS equips municipal authorities with tools to plan, monitor, and optimize sanitation service delivery, ensuring equitable access for all, particularly underserved communities. By integrating geospatial data, real-time service tracking, and sanitation-specific analytics, IMIS supports evidence-based decision-making and enhances resource allocation to improve sanitation outcomes.
+<p align="center> The Integrated Municipal Information System (IMIS) is a comprehensive digital platform designed to transform how municipalities manage sanitation systems and services, aligning with the principles of Citywide Inclusive Sanitation (CWIS) to achieve Sustainable Development Goal (SDG) 6.2. IMIS equips municipal authorities with tools to plan, monitor, and optimize sanitation service delivery, ensuring equitable access for all, particularly underserved communities. By integrating geospatial data, real-time service tracking, and sanitation-specific analytics, IMIS supports evidence-based decision-making and enhances resource allocation to improve sanitation outcomes. </p>
 
 IMIS also functions as a Digital Public Infrastructure (DPI) at the sub-national level, facilitating the generation and organization of critical data for urban sanitation management. Beyond supporting local governance, IMIS serves as a foundational data system that feeds data into national-level systems for monitoring CWIS indicators and other metrics critical for achieving sanitation targets. This capability ensures alignment between municipal operations and broader national objectives, creating a seamless flow of actionable data across governance levels.
 
 IMIS supports the Planning, Management, and Monitoring & Evaluation (M&E) framework for CWIS systems and services (see Figure 1). This framework emphasizes a structured approach to achieving inclusive and sustainable sanitation outcomes. The Planning component focuses on equitable and gender-inclusive strategies, sustainable financing, and transparent pricing mechanisms. The Management component ensures the safe, accountable, and financially sustainable operation of sanitation systems. The M&E component assesses service quality, equitable distribution, and the performance of sanitation authorities. Together, these components create a continuous feedback loop that helps municipalities refine their strategies and align them with national sanitation goals.
 
-| ![image](https://github.com/user-attachments/assets/2644f237-fbbc-4082-bd47-afe2a781ddff)        |
-|--------------------------------------------------------------------------------------------------|
-| Fig. 1 Planning, Management and Monitoring & Evaluation Framework for implementing CWIS Approach |
+ ![image](https://github.com/user-attachments/assets/2644f237-fbbc-4082-bd47-afe2a781ddff) 
+Fig. 1 Planning, Management and Monitoring & Evaluation Framework for implementing CWIS Approach
 
 ## Functional Module of IMIS
 
@@ -22,10 +21,8 @@ The use of these modules must be embedded into the regular workflows of correspo
 
 Each of these ten functional modules is discussed in detail in subsequent sections of this chapter. Additionally, IMIS includes a dedicated Settings module, which focuses on system administration and is covered at the end of the chapter. This structured approach ensures that IMIS is seamlessly integrated into the municipality’s operational framework, supporting both sanitation and urban management.
 
-|![image](https://github.com/user-attachments/assets/ae2249c4-c43e-4add-9c2c-d66309ce0ec3)   |
-|--------------------------------------------------------------------------------------------|
-|Fig. 2 Functional Module of IMIS                                                            |
-
+![image](https://github.com/user-attachments/assets/ae2249c4-c43e-4add-9c2c-d66309ce0ec3)
+Fig. 2 Functional Module of IMIS   
 ### 1. **Building Information Management System (BIMS)**
 
 The BIMS is a core module of the IMIS that serves as a comprehensive database of all buildings within a municipality. It encompasses detailed information about each building, including: Physical attributes (structure type, number of floors, and year of construction); Location details (address and geographical coordinates with building footprints); Usage and ownership (Building usage, ownership status, and associated tax codes); Utilities and services (sources of water, solid waste management services, access to sanitation, access to roads, etc.); Demographics and classifications (basic demographic data and classifications for low-income community areas). Buildings are central to IMIS, functioning as the foundational entities that interconnect all other components essential for efficient municipal service delivery.

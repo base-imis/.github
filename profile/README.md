@@ -4,7 +4,7 @@
 
 # Resources for IMIS
 
-Overview of IMIS: [Learn more about the Integrated Municipal Information System (IMIS)](README.md).
+Overview of IMIS: [Learn more about the Integrated Municipal Information System (IMIS)](https://github.com/base-imis/.github/blob/main/README.md).
 
 Web Application Source Code: [Access the Web Application Repository](https://github.com/base-imis/web_app).
 

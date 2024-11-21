@@ -155,7 +155,7 @@ Map Feature:
 
 #### 10.3. **Dashboards**
 
-<p align="justify"> There are all together six Dashboards considered as the components of UMDSS  of the IMIS includes six dashboards that serve as its core components: (i) IMIS Dashboard, (ii) Building Dashboard, (iii) FSM Dashboard, (iv) Utility Dashboard, (v) CWIS Dashboard, and (vi) KPI Dashboard. Five of these dashboards have been discussed under their respective functional modules and sub-modules. The remaining dashboard, the IMIS Dashboard, is detailed below. </p> 
+<p align="justify"> There are all together six Dashboards considered as the components of UMDSS  of the IMIS that serve as its core components: (i) IMIS Dashboard, (ii) Building Dashboard, (iii) FSM Dashboard, (iv) Utility Dashboard, (v) CWIS Dashboard, and (vi) KPI Dashboard. Five of these dashboards have been discussed under their respective functional modules and sub-modules. The remaining dashboard, the IMIS Dashboard, is detailed below. </p> 
 
 <p align="justify"> The IMIS Dashboard serves as the central platform within the IMIS, offering a comprehensive overview of municipal data. It integrates information on building infrastructure, utilities (such as roads, drains, sewer, and water supply), sanitation systems and services, public and community toilets, public health, tax collection, water bill payments, and solid waste management. This dashboard provides municipalities with a unified interface for monitoring and managing citywide operations effectively, supporting informed decision-making and efficient service delivery. </p> 
 

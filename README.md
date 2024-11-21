@@ -46,7 +46,7 @@ Fig. 2 Functional Module of IMIS
 
 ### 2. **Utility Information Management System (UIMS)**
 
-<p align="justify"> **UIMS**, a core module of the **IMIS**, is designed to manage detailed spatial and attribute data for municipal utilities such as roads, stormwater drains, water supply networks, and sewer systems. UIMS plays a critical role in achieving **CWIS** by enabling municipalities to monitor sanitation infrastructure, identify service gaps, and ensure equitable access to sanitation services, particularly for low-income community (LIC) areas. Through its integration with the **BIMS**, UIMS provides granular insights into utility connectivity for each building, including sewer and drainage links, and water supply access. This integration helps municipalities target underserved areas, plan infrastructure expansions, and prioritize investments in sanitation services. </p> 
+<p align="justify"> **UIMS** , a core module of the **IMIS**, is designed to manage detailed spatial and attribute data for municipal utilities such as roads, stormwater drains, water supply networks, and sewer systems. UIMS plays a critical role in achieving **CWIS** by enabling municipalities to monitor sanitation infrastructure, identify service gaps, and ensure equitable access to sanitation services, particularly for low-income community (LIC) areas. Through its integration with the **BIMS**, UIMS provides granular insights into utility connectivity for each building, including sewer and drainage links, and water supply access. This integration helps municipalities target underserved areas, plan infrastructure expansions, and prioritize investments in sanitation services. </p> 
 
 <p align="justify"> A key feature of UIMS is its interactive dashboard, which delivers real-time visualizations on sanitation-related utilities. The system empowers municipalities to monitor sanitation coverage trends, identify gaps, and make data-driven decisions to address inequities in service delivery. UIMS also includes advanced map-based input tools integrated with the **UMDSS**, allowing municipalities to add or update utility infrastructure directly within the platform. Currently this tool is available for creating and updating road only. In case of other utilities, they need to be digitized and merged with existing data and import in corresponding utilities database of IMIS with the help of skilled GIS people. In case of attribute data, they can be updated for all kind of utilities directly from the user interface. UMDSS has provided tools to export data in flexible formats, such as CSV, SHP, and KML ensuring seamless sharing and integration with other municipal services. </p> 
 
@@ -90,47 +90,7 @@ The data export tools under FSIMS allows users to export data in CSV, Shape and 
 
 <p align="justify"> Water sample data and waterborne cases data maintained by PHISS helps municipality to monitor the CWIS indicators (i) Water contamination compliance of the water sources such as groundwater, surface water and treated wastewater, and (ii) Incidence of faecal-oral pathway diseases (e.g. diarrhea, cholera, dysentery and typhoid). With this information, municipalities can assess the effectiveness of sanitation systems in protecting public health and identify areas requiring urgent attention. By addressing these indicators, PHISS supports municipalities in achieving CWIS objectives, ensuring safe water quality and reducing the prevalence of sanitation-related diseases. The data export tools under PHISS allows users to export data in CSV, Shape and KML format where applicable. </p> 
 
-### 7. **Urban Management Decision Support System (UMDSS)**
-
-<p align="justify"> The UMDSS is one of the core and powerful tool in IMIS, it provides advanced capabilities for spatial analysis, mapping, data export, and dashboard visualizations. These tools empower city authorities to engage in evidence-based planning, management, monitoring, and decision-making for planning, management and monitoring and evaluation of sanitation system and services as well as a broader municipal urban management activities. In addition to the UMDSS module, there are IMIS Dashboard, Building Dashboard under BIMS, FSM Dashboard under FSIMS, Utility Dashboard of IMIS, CWISIMS Module including CWIS and KPI dashboard under CWISIMS are also has been considered as the components of UMDSS. </p> 
-#### **7.1 UMDSS**
-The UMDSS provides Export Data and Map Feature Sub-modules.
-
-<p align="justify"> The UMDSS provides Export Data and Map Feature Sub-modules. </p> 
-
-Export Data:
-
-<p align="justify"> -   The Export Data sub-module enables users to export data layers in flexible formats such as SHP and KML. Users can customize exports by selecting specific ward(s) or combining layers to suit their needs. </p> 
-
-Map Feature:
-
-<p align="justify"> -   The Map Feature is a powerful interactive map interface which provides a dynamic platform to visualize and analyze spatial data created by various modules and sub-modules in IMIS. It displays all spatial information with categorical styling based on attribute information, presenting summarized layers at city, ward and 0.5 km grid levels. </p> 
-<p align="justify"> -   The interface includes various spatial and complex tools provide both basic and advanced functionalities, catering to a wide range of municipal operations. From navigation and visualization to sanitation-specific analyses and data updates, these features enhance decision-making by offering precise and actionable insights. These tools are – (i) Navigation and Map Interaction Tools (Zoom In & Zoom Out, Municipal Extent, Navigate, Info, Coordinate Information, Locate Point by Coordinate, Measurement Tools, Measure Distance, Measure Area, (ii) Measurement Tools (Measure Distance, Measure Area), (iii) Printing and Support Tools (Print Map, Help), (iii) Sanitation-Specific Analysis Tools (Find Nearest Road, Find Building Connected to Containment, Find Containment Connected to Building, Find Associated Building, (iv) Editing Tools (Add Roads, Remove Markers) </p> 
-
-<p align="justify"> The integration of tools like Find Nearest Road and Containment Analysis directly supports Citywide Inclusive Sanitation (CWIS) goals, while features like Measure Area, Print Map, and Add Roads contribute to broader urban management and planning efforts. By using these tools, municipal authorities can efficiently monitor sanitation systems, plan infrastructure upgrades, and ensure equitable service delivery across the city. </p> 
-
-<p align="justify"> -   UMDSS also offer some specialized tools – (i) Service Delivery Tools for tracking (Applications, Emptied Applications Not Reached to Treatment Plant, Containments Proposed to Be Emptied, Feedback Chart (FSM Service Quality), (ii) General Tools for tracking (Buildings by Structure Type, Property Tax Collection, Water Supply), (iii) Data Export Tools (Filter by Wards, Export Data Set, Building Owner Information), (iv) Decision Tools (Tax Due Buildings, Sewers Potential Buildings, Buildings to Sewer, Buildings to Road, Hard to Reach Buildings, Building Close to Water Bodies, Buildings Using Community Toilets, Area Population), (V) Summary Information Tools (Summary Information Buffer Filter, Water Bodies Buffer Summary Information, Wards Summary Information, Road Buffer Summary Information, Point Buffer Summary Information). </p> 
-
-<p align="justify"> These tools enhance decision-making by providing targeted insights into property, utility, and demographic data. They allow municipalities to analyze specific areas, prioritize interventions, and support efficient planning, management and monitoring and evaluation of CWIS sanitation system and services, and overall urban management. </p> 
-
-#### 7.2. **CWIS Information Management System (CWISIMS):**
-
-<p align="justify"> CWISIMS is a vital module of the **IMIS** that provides tools to generate CWIS indicators for the city and Key Performance Indicators (KPIs) to monitor the performance of sanitation service providers for a specified year. CWISIMS allows municipalities to set targets for each indicator in alignment with city policies and standards, and it includes a dashboard for the visualization of these indicators. The generated indicator data is maintained in a database, enabling easy access and review when needed, ensuring effective monitoring and planning. </p> 
-
-<p align="justify"> 1.  CWIS Dashboard - The CWIS Dashboard tracks 22 sanitation indicators (Annex 1), which are generated annually. These indicators are informed by data maintained across various modules and sub-modules within IMIS, making them integral to understanding citywide sanitation performance. The indicators are based on the CWIS framework developed by Athena Informatics, ensuring consistency with globally recognized standards for inclusive sanitation monitoring. This dashboard provides municipalities with a centralized platform for tracking sanitation progress and assessing the effectiveness of implemented policies and services. </p> 
-<p align="justify"> 2.  KPI Dashboard – The KPI Dashboard complements the CWIS Dashboard by focusing on the performance of sanitation service providers. It monitors seven critical KPIs (1.Application Response Efficiency, 2. Customer Satisfaction, 3. PPE Compliance, 4. Safe Desludging, 5. Faecal Sludge Collection Ration, 6. Response Time, 7. Inclusion), which are also generated annually, using sanitation service data related to faecal sludge management (FSM) service delivery. These KPIs are designed to evaluate the efficiency and quality of services provided by sanitation operators, based on metrics developed by SNV Bangladesh. By leveraging this dashboard, municipalities can benchmark service provider performance and identify areas for operational improvement within their sanitation systems. </p> 
-
-<p align="justify"> CWISIMS, through its dual focus on CWIS indicators and KPIs, provides municipalities with robust tools for monitoring and improving their sanitation systems. By aligning indicator and KPI tracking with international standards and municipal goals, it ensures data-driven decision-making and continuous improvement in sanitation service delivery and management. </p> 
-
-#### 7.3. **Dashboards**
-
-<p align="justify"> There are all together six Dashboards considered as the components of UDSS of the IMIS includes six dashboards that serve as its core components: (i) IMIS Dashboard, (ii) Building Dashboard, (iii) FSM Dashboard, (iv) Utility Dashboard, (v) CWIS Dashboard, and (vi) KPI Dashboard. Five of these dashboards have been discussed under their respective functional modules and sub-modules. The remaining dashboard, the IMIS Dashboard, is detailed below. </p> 
-
-<p align="justify"> The IMIS Dashboard serves as the central platform within the IMIS, offering a comprehensive overview of municipal data. It integrates information on building infrastructure, utilities (such as roads, drains, sewer, and water supply), sanitation systems and services, public and community toilets, public health, tax collection, water bill payments, and solid waste management. This dashboard provides municipalities with a unified interface for monitoring and managing citywide operations effectively, supporting informed decision-making and efficient service delivery. </p> 
-
-<p align="justify"> The Urban Management Decision Support System (UMDSS) enables municipalities to implement Citywide Inclusive Sanitation (CWIS) principles, supporting the planning, monitoring, and management of sanitation systems and services through a CWIS-focused approach. It also enhances revenue collection processes, including tax collection, water bill payments, and fees for solid waste management services, while providing actionable spatial insights to improve overall urban management. With its powerful analytical tools, UMDSS empowers municipalities to achieve greater efficiency, transparency, and inclusivity, not only in sanitation management but also in broader urban governance and service delivery. </p> 
-
-### 8. **Property Tax Collection Information Support System (PTCISS)**
+### 7. **Property Tax Collection Information Support System (PTCISS)**
 
 <p align="justify"> PTCISS is a value-added module integrated into the Integrated Municipal Information System (IMIS), designed to help municipalities monitor and manage property tax collection citywide through powerful map-based visualization tools. It enables city authorities to import property tax data maintained by the municipal property tax collection department into IMIS using a user-friendly data import tool supporting CSV formats. Once the data is integrated, property tax collection information is displayed in graphical formats on the IMIS dashboard and visualized on maps using tools provided by UMDSS. This facilitates quick and intuitive analysis of tax collection status across various parts of the city. </p> 
 
@@ -142,7 +102,7 @@ Map Feature:
 
 <p align="justify"> By leveraging the features and insights provided by PTCISS, municipalities can streamline property tax management, improve transparency, and enhance revenue collection efficiency. These improvements contribute significantly to better urban governance and equitable service delivery. </p> 
 
-### 9. **Solid Waste Information Support System (SWISS)**
+### 8. **Solid Waste Information Support System (SWISS)**
 
 <p align="justify"> The SWISS that enhances the management of solid waste services and fee collection. The module includes a tool for importing a municipality’s solid waste customer data, including their last solid waste management service fee payment date, in CSV format. Based on this imported data, the SWISS module generates and maintains solid waste management customer records in IMIS, along with their fee payment status. It also provides tools to export building data with their solid waste service fee payment status and identifies discrepancies by highlighting records that exist in the municipality’s solid waste customer database but are missing from IMIS. </p> 
 
@@ -150,7 +110,7 @@ Map Feature:
 
 <p align="justify"> The visualized data provided by SWISS supports municipalities in formulating policies to enhance the solid waste management service and fee collection processes. It also aids in optimizing resource allocation and improving overall service delivery by identifying areas requiring attention or adjustments. This integration is currently carried out manually on a periodic basis to ensure the data in IMIS remains up-to-date. Like the PTCISS module, SWISS does not yet support real-time data integration through an API. </p> 
 
-### 10. **Water Supply Information Support System (WSISS)**
+### 9. **Water Supply Information Support System (WSISS)**
 
 <p align="justify"> The WSISS is another value-added module within the **IMIS**, designed to enhance the management of water supply services and fee collection. The WSISS includes a data importing tool that allows municipalities to upload water supply customer data, including their last fee payment date, in CSV format. Based on this imported data, the WSISS module generates and maintains records of water supply customers along with their fee payment status. It also provides tools to export building data with their water supply service and fee payment statuses and highlights discrepancies by identifying records present in the municipality’s water supply customer database but missing in IMIS. </p> 
 
@@ -159,6 +119,47 @@ Map Feature:
 <p align="justify"> The visualized data provided by WSISS supports the development of policies aimed at improving water supply fee collection processes, optimizing resource allocation, and enhancing overall service delivery. This integration helps municipalities target areas requiring attention, ensuring more effective and equitable water supply service management. </p> 
 
 <p align="justify"> Currently, as with the PTCISS and SWISS modules, the integration of data into WSISS must be carried out manually on a periodic basis to maintain accuracy. </p> 
+
+
+### 10. **Urban Management Decision Support System (UMDSS)**
+
+<p align="justify"> The UMDSS is one of the core and powerful tool in IMIS, it provides advanced capabilities for spatial analysis, mapping, data export, and dashboard visualizations. These tools empower city authorities to engage in evidence-based planning, management, monitoring, and decision-making for planning, management and monitoring and evaluation of sanitation system and services as well as a broader municipal urban management activities. In addition to the UMDSS module, there are IMIS Dashboard, Building Dashboard under BIMS, FSM Dashboard under FSIMS, Utility Dashboard of IMIS, CWISIMS Module including CWIS and KPI dashboard under CWISIMS are also has been considered as the components of UMDSS. </p> 
+#### **10.1 UMDSS**
+The UMDSS provides Export Data and Map Feature Sub-modules.
+
+<p align="justify"> The UMDSS provides Export Data and Map Feature Sub-modules. </p> 
+
+Export Data:
+
+<p align="justify"> -   The Export Data sub-module enables users to export data layers in flexible formats such as SHP and KML. Users can customize exports by selecting specific ward(s) or combining layers to suit their needs. </p> 
+
+Map Feature:
+
+<p align="justify"> -   The Map Feature is a powerful interactive map interface which provides a dynamic platform to visualize and analyze spatial data created by various modules and sub-modules in IMIS. It displays all spatial information with categorical styling based on attribute information, presenting summarized layers at city, ward and 0.5 km grid levels. </p> 
+<p align="justify"> -   The interface includes various spatial and complex tools provide both basic and advanced functionalities, catering to a wide range of municipal operations. From navigation and visualization to sanitation-specific analyses and data updates, these features enhance decision-making by offering precise and actionable insights. These tools are – (i) Navigation and Map Interaction Tools (Zoom In & Zoom Out, Municipal Extent, Navigate, Info,  Coordinate Information, Locate Point by Coordinate, (ii) Measurement Tools (Measure Distance, Measure Area), (iii) Printing and Support Tools (Print Map, Help), (iii) Sanitation-Specific Analysis Tools (Find Nearest Road, Find Building Connected to Containment, Find Containment Connected to Building, Find Associated Building, (iv) Editing Tools (Add Roads, Remove Markers). </p> 
+
+<p align="justify"> The integration of tools like Find Nearest Road and Containment Analysis directly supports Citywide Inclusive Sanitation (CWIS) goals, while features like Measure Area, Print Map, and Add Roads contribute to broader urban management and planning efforts. By using these tools, municipal authorities can efficiently monitor sanitation systems, plan infrastructure upgrades, and ensure equitable service delivery across the city. </p> 
+
+<p align="justify"> -   UMDSS also offer some specialized tools – (i) Service Delivery Tools for tracking (Applications, Emptied Applications Not Reached to Treatment Plant, Containments Proposed to Be Emptied, Feedback Chart (FSM Service Quality), (ii) General Tools for tracking (Buildings by Structure Type, Property Tax Collection, Water Supply), (iii) Data Export Tools (Filter by Wards, Export Data Set, Building Owner Information), (iv) Decision Tools (Tax Due Buildings, Sewers Potential Buildings, Buildings to Sewer, Buildings to Road, Hard to Reach Buildings, Building Close to Water Bodies, Buildings Using Community Toilets, Area Population), (V) Summary Information Tools (Summary Information Buffer Filter, Water Bodies Buffer Summary Information, Wards Summary Information, Road Buffer Summary Information, Point Buffer Summary Information). </p> 
+
+<p align="justify"> These tools enhance decision-making by providing targeted insights into property, utility, and demographic data. They allow municipalities to analyze specific areas, prioritize interventions, and support efficient planning, management and monitoring and evaluation of CWIS sanitation system and services, and overall urban management. </p> 
+
+#### 10.2. **CWIS Information Management System (CWISIMS):**
+
+<p align="justify"> CWISIMS is a vital module of the **IMIS** that provides tools to generate CWIS indicators for the city and Key Performance Indicators (KPIs) to monitor the performance of sanitation service providers for a specified year. CWISIMS allows municipalities to set targets for each indicator in alignment with city policies and standards, and it includes a dashboard for the visualization of these indicators. The generated indicator data is maintained in a database, enabling easy access and review when needed, ensuring effective monitoring and planning. </p> 
+
+<p align="justify"> 1.  CWIS Dashboard - The CWIS Dashboard tracks 22 sanitation indicators (Annex 1), which are generated annually. These indicators are informed by data maintained across various modules and sub-modules within IMIS, making them integral to understanding citywide sanitation performance. The indicators are based on the CWIS framework developed by Athena Informatics, ensuring consistency with globally recognized standards for inclusive sanitation monitoring. This dashboard provides municipalities with a centralized platform for tracking sanitation progress and assessing the effectiveness of implemented policies and services. </p> 
+<p align="justify"> 2.  KPI Dashboard – The KPI Dashboard complements the CWIS Dashboard by focusing on the performance of sanitation service providers. It monitors seven critical KPIs (1.Application Response Efficiency, 2. Customer Satisfaction, 3. PPE Compliance, 4. Safe Desludging, 5. Faecal Sludge Collection Ration, 6. Response Time, 7. Inclusion), which are also generated annually, using sanitation service data related to faecal sludge management (FSM) service delivery. These KPIs are designed to evaluate the efficiency and quality of services provided by sanitation operators, based on metrics developed by SNV Bangladesh. By leveraging this dashboard, municipalities can benchmark service provider performance and identify areas for operational improvement within their sanitation systems. </p> 
+
+<p align="justify"> CWISIMS, through its dual focus on CWIS indicators and KPIs, provides municipalities with robust tools for monitoring and improving their sanitation systems. By aligning indicator and KPI tracking with international standards and municipal goals, it ensures data-driven decision-making and continuous improvement in sanitation service delivery and management. </p> 
+
+#### 10.3. **Dashboards**
+
+<p align="justify"> There are all together six Dashboards considered as the components of UDSS of the IMIS includes six dashboards that serve as its core components: (i) IMIS Dashboard, (ii) Building Dashboard, (iii) FSM Dashboard, (iv) Utility Dashboard, (v) CWIS Dashboard, and (vi) KPI Dashboard. Five of these dashboards have been discussed under their respective functional modules and sub-modules. The remaining dashboard, the IMIS Dashboard, is detailed below. </p> 
+
+<p align="justify"> The IMIS Dashboard serves as the central platform within the IMIS, offering a comprehensive overview of municipal data. It integrates information on building infrastructure, utilities (such as roads, drains, sewer, and water supply), sanitation systems and services, public and community toilets, public health, tax collection, water bill payments, and solid waste management. This dashboard provides municipalities with a unified interface for monitoring and managing citywide operations effectively, supporting informed decision-making and efficient service delivery. </p> 
+
+<p align="justify"> The Urban Management Decision Support System (UMDSS) enables municipalities to implement Citywide Inclusive Sanitation (CWIS) principles, supporting the planning, monitoring, and management of sanitation systems and services through a CWIS-focused approach. It also enhances revenue collection processes, including tax collection, water bill payments, and fees for solid waste management services, while providing actionable spatial insights to improve overall urban management. With its powerful analytical tools, UMDSS empowers municipalities to achieve greater efficiency, transparency, and inclusivity, not only in sanitation management but also in broader urban governance and service delivery. </p> 
 
 ### 11. **Settings**
 

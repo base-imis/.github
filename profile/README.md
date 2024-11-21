@@ -16,9 +16,9 @@ User Manuals: [Access IMIS User Guides](https://github.com/base-imis/user_manual
 
 Live Demo: [Try the IMIS Demo](https://imis.innovativesolution.com.np/).
 
-Overview of the Framework: [Learn more about the Readiness Assessment Framework](#).
+Overview of the Framework: [Learn more about the Readiness Assessment Framework](https://github.com/base-imis/other_resources/blob/main/Readiness%20Assessment.pdf).
 
-Building Survey Questionnaire: [Access the Building Survey Questionnaire](#).
+Building Survey Questionnaire: [Access the Building Survey Questionnaire](https://github.com/base-imis/other_resources/blob/main/Building%20Questionnaire.pdf).
 
 Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](insol@innovativesolution.com.np).
 

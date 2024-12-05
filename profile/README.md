@@ -43,7 +43,7 @@ IMIS Logo - [Standard: The official IMIS logo in its standard format.](https://g
   
 IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://github.com/base-imis/additional_resources/blob/main/IMIS%20Logo%20-%20Inverted.png)
 
-IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/base-imis/.github/blob/main/profile/License.md)
+IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/base-imis/.github/blob/main/License.md)
 
 Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](insol@innovativesolution.com.np).
 

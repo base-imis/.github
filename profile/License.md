@@ -1,7 +1,3 @@
-Base IMIS  2022-2024 by [Innovative Solution Pvt. Ltd.](https://innovativesolution.com.np/) is licensed under CC BY-NC-SA 4.0.
-
-------------------------------------------------------
-
 # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 ------------------------------------------------------

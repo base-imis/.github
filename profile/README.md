@@ -14,7 +14,7 @@ Fig. 1 Functional Module of IMIS
 # IMIS Organization Repository Structure
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/23714d17-dabe-46dc-a244-7a47784d0389" </img>
+<img src="https://github.com/user-attachments/assets/2232a067-13dc-497c-bbc1-bb8d09e32474" </img>
 </div>
 
 # Quicklinks for IMIS

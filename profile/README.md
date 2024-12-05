@@ -45,6 +45,10 @@ IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://githu
 
 IMIS Full License Text - [CC BY-NC-SA 4.0](https://github.com/base-imis/.github/blob/main/License.md)
 
+IMIS Contributing Guideline - [View the Contributing Guideline](https://github.com/base-imis/.github/blob/main/CONTRIBUTING.md)
+
+IMIS Code of Conduct - [View the Code of Conduct](https://github.com/base-imis/.github/blob/main/CODE_OF_CONDUCT.md)
+
 Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](insol@innovativesolution.com.np).
 
 # List of Contributors

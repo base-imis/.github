@@ -45,3 +45,6 @@ IMIS Logo - [Inverted: The IMIS logo in an inverted color scheme.](https://githu
 
 Contact Us: For further information, reach out to us at [insol@innovativesolution.com.np](insol@innovativesolution.com.np).
 
+# List of Contributors
+
+
